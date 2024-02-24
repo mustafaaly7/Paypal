@@ -123,9 +123,30 @@ color: #56ccfe;
 
 .secondSection{
     background-color: white;
-    /* text-align: center; */
+    text-align: center;
 }
 .secondSectioncontent{
-    text-align: center;
+    /* text-align: center; */
 
+}
+.thirdSection{
+    display: flex;
+    width: 80%;
+    /* justify-content: center; */
+}
+
+.thirdSectionp2 h3{
+    font-size: 43px;
+    color: black;
+}
+
+.thirdSectionp2 p,a{
+    font-size: 20px;
+}
+.thirdSectionp1{
+    margin: 0px 0px 0px 230px;
+}
+.thirdSectionp2{
+
+    margin: 70px 0px 0px 0px;
 }
