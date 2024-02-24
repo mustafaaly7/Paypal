@@ -1,0 +1,26 @@
+.header{
+background-color: #ffff!important;
+color: black;
+}
+
+.navlinks{
+background-color: #ffff!important;
+color: black;
+    
+}
+.navdrop{
+color: black;
+
+}
+
+.login{
+background-color: #ffff;
+color: #003087;
+border-radius: 30%;
+}
+
+.signup{
+background-color: #003087;
+border-radius: 30%;
+
+}
