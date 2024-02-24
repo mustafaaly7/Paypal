@@ -1,13 +1,15 @@
 .header{
 background-color: #ffff!important;
 color: black;
+border: 1px solid green;
+
 }
 
 .navlinks{
     font-size: 1.40rem;
 background-color: #ffff!important;
 color: black;
-    
+    border: 1px solid red;
 }
 .navdrop{
 color: black;
@@ -46,11 +48,12 @@ font-size: 1.40rem;
 
 .firstSection{
     /* max-width: 1583px; */
-      height: 656px; 
+      height: 980px;
      width: 100%;
      background-image: url(./images/Untitled.png) !important;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-position: bottom;
+    border: 3px solid black;
    
 }
 .firstSectionContent{
@@ -60,6 +63,7 @@ font-size: 1.40rem;
     color: white;
     padding: 78px 0px 0px 140px;
     /* background-color: #003087 !important; */
+    border: 2px solid yellow;
      
     
 }
@@ -76,4 +80,52 @@ color: #56ccfe;
 .firstSectionContent p{
     font-size: 1.25rem;
     color: white;
+}
+.firstSectionContent2{
+
+}
+
+
+.firstSectionContent2items{
+    border: 2px solid green;
+    display: flex;
+    justify-content:space-between ;
+}
+
+.firstSectionContent2item1{
+    margin: 25px 0px 0px -83px
+
+
+}
+
+.firstSectionContent2item2{
+    margin: -49px 102px 0px 0px;
+}
+.linkbtn{
+    margin: -90px 0px 0px 242px;
+}
+
+
+.firstSectionContent2items img{
+    padding: 0px 0px 0px 74px;
+}
+.firstSectionContent2item1 p{
+    color: white;
+    margin: 0px 0px 0px 233px;
+    font-size: 22px;
+}
+.firstSectionContent2items p{
+
+}
+.firstSectionContent2items input{
+
+}
+
+.secondSection{
+    background-color: white;
+    /* text-align: center; */
+}
+.secondSectioncontent{
+    text-align: center;
+
 }
