@@ -4,6 +4,7 @@ color: black;
 }
 
 .navlinks{
+    font-size: 1.40rem;
 background-color: #ffff!important;
 color: black;
     
@@ -17,10 +18,62 @@ color: black;
 background-color: #ffff;
 color: #003087;
 border-radius: 30%;
+font-size: 1.40rem;
+margin: 0px 30px 0px 0px;
 }
 
 .signup{
 background-color: #003087;
 border-radius: 30%;
+font-size: 1.40rem;
+}
+.navbtns
+{
 
+}
+.navbtns a{
+    text-decoration: none;
+    font-size: 1.40rem;
+    background-color: #ffff!important;
+    color: black;
+    padding: 0px 35px 0px 0px;
+}
+.main{
+    /* width: 80%;
+    margin-left: auto;
+    margin-right: auto; */
+}
+
+.firstSection{
+    /* max-width: 1583px; */
+      height: 656px; 
+     width: 100%;
+     background-image: url(./images/Untitled.png) !important;
+    background-repeat: no-repeat;
+    background-position: bottom;
+   
+}
+.firstSectionContent{
+    
+
+    /* width: 80%; */
+    color: white;
+    padding: 78px 0px 0px 140px;
+    /* background-color: #003087 !important; */
+     
+    
+}
+.firstSectionContent a{
+text-decoration: none;
+font-size:2.25rem ;
+color: #56ccfe;
+
+}
+
+.firstSection h1{
+    font-size: 6.25rem;
+}
+.firstSectionContent p{
+    font-size: 1.25rem;
+    color: white;
 }
