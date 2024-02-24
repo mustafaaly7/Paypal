@@ -177,3 +177,34 @@ color: #56ccfe;
 .fifthSectionContent2{
     margin: 0px 0px 0px 105px;
 }
+
+
+.sixthSection{
+    margin: 208px 0px 0px 0px;
+    background-color: white;
+    width: 80%;
+    display: flex;
+
+}
+
+.sixthSectionContent1{
+    margin: 0px 0px 0px 212px
+}
+
+.sixthSectionContent2{
+    margin: 0px 0px 0px 105px;
+}
+
+.seventhSection{
+    margin: 99px 0px 0px 0px;
+    background-color: white;
+    width: 80%;
+    display: flex;
+
+}
+.seventhSectionContent1{
+    margin: 111px 0px 0px 295px;
+}
+.seventhSectionContent2{
+
+}
